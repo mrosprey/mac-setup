@@ -29,6 +29,7 @@ brew install --cask skitch
 brew install --cask skype
 brew install --cask slack
 brew install --cask sublime-text
+brew install --cask obsidian
 brew install --cask tablecruncher
 brew install --cask tableplus
 brew install --cask textmate
