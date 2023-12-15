@@ -19,6 +19,7 @@ brew install lazydocker
 brew install lazygit
 brew install --cask libreoffice
 brew install --cask loom
+brew install --cask macdown
 brew install --cask menubar-countdown
 brew install --cask notion
 brew install --cask orbstack
@@ -32,6 +33,7 @@ brew install --cask sublime-text
 brew install --cask obsidian
 brew install --cask tablecruncher
 brew install --cask tableplus
+brew install --cask termius
 brew install --cask textmate
 brew install --cask tomighty
 brew install --cask vlc
