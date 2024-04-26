@@ -26,6 +26,7 @@ brew install --cask orbstack
 brew install --cask postman
 brew install --cask rectangle
 brew install --cask sequel-pro
+brew install siege
 brew install --cask skitch
 brew install --cask skype
 brew install --cask slack
@@ -39,6 +40,7 @@ brew install --cask tomighty
 brew install --cask vlc
 brew install --cask visual-studio-code
 brew install wardenenv/warden/warden
+brew install wget
 brew install --cask whatsapp
 
 
