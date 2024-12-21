@@ -43,6 +43,9 @@ brew install wardenenv/warden/warden
 brew install wget
 brew install --cask whatsapp
 
+#install grayscale menubar tool -- https://github.com/brettferdosi/grayscale
+install --cask --no-quarantine brettferdosi/tap/grayscale
+
 
 
 # brew install --cask phpstorm
