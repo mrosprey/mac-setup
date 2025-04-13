@@ -25,7 +25,7 @@ brew install --cask notion
 brew install --cask orbstack
 brew install --cask postman
 brew install --cask rectangle
-brew install --cask sequel-pro
+brew install --cask sequel-ace
 brew install siege
 brew install --cask skitch
 brew install --cask skype
