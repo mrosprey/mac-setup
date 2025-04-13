@@ -4,7 +4,6 @@ brew install git
 brew install --cask blisk
 brew install --cask vincelwt-chatgpt
 brew install --cask google-chrome
-brew install --cask adobe-creative-cloud
 brew install --cask cyberduck
 brew install --cask dbeaver-community
 brew install --cask diffmerge
