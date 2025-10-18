@@ -9,7 +9,6 @@ brew install --cask dbeaver-community
 brew install --cask diffmerge
 brew install --cask firefox
 brew install --cask gitkraken
-brew install --cask gitkraken-cli
 brew install --cask gyazo
 brew install --cask imageoptim
 brew install --cask insomnia
@@ -18,12 +17,13 @@ brew install lazydocker
 brew install lazygit
 brew install --cask libreoffice
 brew install --cask loom
-brew install --cask macdown
+brew install --cask macwhisper
 brew install --cask menubar-countdown
 brew install --cask notion
 brew install --cask orbstack
 brew install --cask postman
 brew install --cask rectangle
+brew install --cask rustdesk
 brew install --cask sequel-ace
 brew install siege
 brew install --cask skitch
