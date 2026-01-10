@@ -1,0 +1,59 @@
+## to use apps that were designed for intel chips (battle.net, macdown)
+## softwareupdate --install-rosetta --agree-to-license
+
+## check for applications updates
+brew outdated ## show what packages have updates available
+# brew upgrade ## upgrade all packages
+
+## upgrade brew
+#brew update ## updates homebrew itself
+
+## install applications
+
+# brew install --cask insomnia
+# brew install lazydocker ## simplified terminal interface for managing docker
+# brew install lazygit ## simplified terminal interface for managing git
+
+brew install --cask --no-quarantine brettferdosi/tap/grayscale # add menubar tool for activating grayscale	
+brew install --cask anytype ## app similar to notion and obsidian
+brew install --cask blisk ## browser running chrome engine
+brew install --cask cyberduck ## ftp, sftp and webdav tool
+brew install --cask dbeaver-community ## db client
+brew install --cask diffmerge
+brew install --cask figma ## create mockups
+brew install --cask firefox ## browser
+brew install --cask ghostty ## terminal
+brew install --cask gitkraken ## helps with diff merging
+brew install --cask google-chrome ## browser
+brew install --cask gyazo ## takes screenshots and immediately pushes to urls
+brew install --cask hoppscotch ## like postman
+brew install --cask imageoptim ## image compressor
+brew install --cask iterm2 ## terminal
+brew install --cask keepingyouawake ## keeps computer from sleeping
+brew install --cask libreoffice ## ms office clone
+brew install --cask loom ## record screencasts pushed to urls
+brew install --cask macdown ## markdown editor, needs emulator to work on apple M chips
+brew install --cask macwhisper ## voice transcription powered by ChatGPT
+brew install --cask menubar-countdown ## menubar timer
+brew install --cask notion
+brew install --cask obsidian ## alternative to notion
+brew install --cask onlyoffice ## another ms office clone
+brew install --cask orbstack ## alternative to docker
+brew install --cask postman ## api ide
+brew install --cask rectangle ## windows management
+brew install --cask sequel-ace ## db client
+brew install --cask skitch ## screenshots
+brew install --cask skype ## chat/video/text software
+brew install --cask slack ## coordination softwaree
+brew install --cask sublime-text ## text editor
+brew install --cask tabby ## terminal
+brew install --cask tablecruncher ## reads very large csv files
+brew install --cask tableplus ## db client
+brew install --cask termius ## terminal
+brew install --cask textmate ## text editor
+brew install --cask tomighty ## pomodoro timer
+brew install --cask vincelwt-chatgpt ## menubar chatgpt client
+brew install --cask visual-studio-code ## text editor / ide
+brew install --cask whatsapp ## messaging system
+brew install --cask wpsoffice ## ms office clone
+brew install --cask zoom ## install zoom
