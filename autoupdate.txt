@@ -1,0 +1,4 @@
+brew tap domt4/autoupdate
+brew install pinentry-mac
+
+brew autoupdate start 604800 --ac-only --cleanup --immediate --sudo --upgrade --greedy
