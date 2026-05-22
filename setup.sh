@@ -14,7 +14,6 @@ brew install --cask cavalry
 brew install --cask chatgpt
 brew install --cask claude
 brew install --cask claude-code
-brew install --cask google-chrome
 brew install --cask cursor
 brew install --cask cyberduck
 brew install --cask dbeaver-community
@@ -24,6 +23,7 @@ brew install --cask downie
 brew install --cask firefox
 brew install --cask github
 brew install --cask gitkraken
+brew install --cask google-chrome
 brew install --cask gyazo
 brew install --cask herd
 brew install --cask insomnia
@@ -34,16 +34,14 @@ brew install --cask loom
 brew install --cask notion
 brew install --cask obsidian
 brew install --cask onlyoffice
-brew install --cask orbstack
 brew install --cask postman
 brew install --cask rectangle
 brew install --cask rustdesk
-brew install --cask sequel-ace
 brew install --cask selfcontrol
+brew install --cask sequel-ace
 brew install --cask slack
 brew install --cask snagit
 brew install --cask sublime-text
-brew install --cask obsidian
 brew install --cask tablecruncher
 brew install --cask tableplus
 brew install --cask textmate
